@@ -1,0 +1,8 @@
+{
+  "name": "accounts-beatsmusic",
+  "description": "Beats Music OAuth2 login service for use with Meteor Auth",
+  "homepage": "https://github.com/scottmacdowell/accounts-beatsmusic",
+  "author": "Scott MacDowell <scottymacdowell@gmail.com>",
+  "version": "0.0.1",
+  "git": "https://github.com/scottmacdowell/accounts-beatsmusic.git"
+}
