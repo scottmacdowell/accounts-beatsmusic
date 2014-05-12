@@ -1,6 +1,6 @@
-## Meteor-BeatsMusic
+## accounts-beatsmusic
 
-Beats Music OAuth2 login service for use with Meteor Auth.
+Beats Music OAuth2 login service for use with Meteor Auth and the [BeatsMusic](https://github.com/scottmacdowell/Meteor-BeatsMusic) package.
 
 ### Usage
 
