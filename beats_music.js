@@ -1,13 +1,13 @@
 Accounts.oauth.registerService('beats_music');
 
 if (Meteor.isClient) {
-  Meteor.loginWithBeatsMusic = function(options, callback) {
+  Meteor.loginWithBeats_music = function(options, callback) {
     // support a callback without options
     if (! callback && typeof options === "function") {
       callback = options;
       options = null;
     }
-
+      console.log(2);
     var credentialRequestCompleteCallback = Accounts.oauth.credentialRequestCompleteHandler(callback);
     Beats_Music.requestCredential(options, credentialRequestCompleteCallback);
   };
