@@ -4,5 +4,8 @@
   "homepage": "https://github.com/scottmacdowell/accounts-beatsmusic",
   "author": "Scott MacDowell <scottymacdowell@gmail.com>",
   "version": "0.0.1",
-  "git": "https://github.com/scottmacdowell/accounts-beatsmusic.git"
+  "git": "https://github.com/scottmacdowell/accounts-beatsmusic.git",
+  "packages": {
+    "BeatsMusic": "0.0.1"
+  }
 }
